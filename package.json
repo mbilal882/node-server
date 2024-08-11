@@ -1,0 +1,27 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilal882s/node-server.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "server"
+  ],
+  "author": "Muhammad Bilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilal882s/node-server/issues"
+  },
+  "homepage": "https://github.com/bilal882s/node-server#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
